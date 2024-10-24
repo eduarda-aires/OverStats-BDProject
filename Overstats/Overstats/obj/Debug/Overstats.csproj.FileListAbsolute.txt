@@ -1,0 +1,11 @@
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\bin\Debug\Overstats.exe.config
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\bin\Debug\Overstats.exe
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\bin\Debug\Overstats.pdb
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.csproj.AssemblyReference.cache
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.Properties.Resources.resources
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.csproj.GenerateResource.cache
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.csproj.CoreCompileInputs.cache
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.exe
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.pdb
+C:\Users\alber\FACULDADE ECT\ano3\BD\Projeto\Overstats\Overstats\obj\Debug\Overstats.OVERSTATS.resources
